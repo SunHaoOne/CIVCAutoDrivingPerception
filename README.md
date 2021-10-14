@@ -10,7 +10,7 @@
   - 曲线道路，前车障碍
 
 
-<img src="https://gitee.com/icvrc2021-neu/icvrcauto-driving-perception/raw/master/image/90score.png">
+<img src="https://github.com/NEUAutonomousDriving408/CIVCAutoDrivingPerception/blob/master/image/90score.png">
 
 ## 2 控制模块
 
